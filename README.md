@@ -21,3 +21,5 @@ o	Printed L5, and Cleared L5.}
 •	Printed L1, L2, L3, L4.
 } End While Loop
 Cleared L1, L2, L3, and L4, and printed them all.
+
+Attached is the main files and the header files. I also attached the outputs pdf. The outputs are random but the process is rather the same. 
