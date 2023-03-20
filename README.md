@@ -1,5 +1,6 @@
 # Random-Squares-List
 ***Project Description***
+***Code is in C++***
 Generating a random list of square values and iterating through the list with the use of iterators and List functions.
 Implemented using a Singly Linked List.
 
