@@ -1,0 +1,218 @@
+L1 Size: 0
+L2 Size: 0
+L3 Size: 0
+L4 Size: 0
+
+L1
+(Set Square -> 10) ,
+L2:
+(Set Square -> 10) ,
+L3:
+(Set Square -> 10) ,
+L4:
+
+
+L1
+(Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) ,
+L3:
+(Set Square -> 62) , (Set Square -> 10) ,
+L4:
+
+
+L1
+(Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) ,
+L3:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 52) ,
+L4:
+
+
+L1
+(Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) ,
+L3:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) , (Set Square -> 52) ,
+L4:
+
+
+L1
+(Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) , (Set Square -> 52) ,
+L4:
+
+
+Adding to L4...
+Creating L5...
+Deleting Odd sized square with side: 93
+Size of square in the Previous Node: 93
+
+Deleting Odd sized square with side: 93
+Size of square in the Previous Node: N/A. Deleted odd square at head.
+
+L5:
+(Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+
+Clearing L5...
+L5:
+
+
+L1
+(Set Square -> 83) , (Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) , (Set Square -> 83) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 52) ,
+L4:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) ,
+
+L1
+(Set Square -> 57) , (Set Square -> 93) , (Set Square -> 83) , (Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 57) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 57) ,
+L4:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) ,
+
+L1
+(Set Square -> 51) , (Set Square -> 57) , (Set Square -> 93) , (Set Square -> 83) , (Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 57) , (Set Square -> 51) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 57) , (Set Square -> 51) ,
+L4:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) ,
+
+L1
+(Set Square -> 58) , (Set Square -> 51) , (Set Square -> 57) , (Set Square -> 93) , (Set Square -> 83) , (Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 58) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 58) , (Set Square -> 52) , (Set Square -> 57) , (Set Square -> 51) ,
+L4:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) ,
+
+L1
+(Set Square -> 74) , (Set Square -> 58) , (Set Square -> 51) , (Set Square -> 57) , (Set Square -> 93) , (Set Square -> 83) , (Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 58) , (Set Square -> 74) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 58) , (Set Square -> 52) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 74) ,
+L4:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) ,
+
+L1
+(Set Square -> 19) , (Set Square -> 74) , (Set Square -> 58) , (Set Square -> 51) , (Set Square -> 57) , (Set Square -> 93) , (Set Square -> 83) , (Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 58) , (Set Square -> 74) , (Set Square -> 19) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 58) , (Set Square -> 52) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 19) , (Set Square -> 74) ,
+L4:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) ,
+
+L1
+(Set Square -> 96) , (Set Square -> 19) , (Set Square -> 74) , (Set Square -> 58) , (Set Square -> 51) , (Set Square -> 57) , (Set Square -> 93) , (Set Square -> 83) , (Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 58) , (Set Square -> 74) , (Set Square -> 19) , (Set Square -> 96) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 58) , (Set Square -> 52) , (Set Square -> 96) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 19) , (Set Square -> 74) ,
+L4:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) ,
+
+L1
+(Set Square -> 78) , (Set Square -> 96) , (Set Square -> 19) , (Set Square -> 74) , (Set Square -> 58) , (Set Square -> 51) , (Set Square -> 57) , (Set Square -> 93) , (Set Square -> 83) , (Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 58) , (Set Square -> 74) , (Set Square -> 19) , (Set Square -> 96) , (Set Square -> 78) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 78) , (Set Square -> 58) , (Set Square -> 52) , (Set Square -> 96) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 19) , (Set Square -> 74) ,
+L4:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) ,
+
+L1
+(Set Square -> 3) , (Set Square -> 78) , (Set Square -> 96) , (Set Square -> 19) , (Set Square -> 74) , (Set Square -> 58) , (Set Square -> 51) , (Set Square -> 57) , (Set Square -> 93) , (Set Square -> 83) , (Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 58) , (Set Square -> 74) , (Set Square -> 19) , (Set Square -> 96) , (Set Square -> 78) , (Set Square -> 3) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 78) , (Set Square -> 58) , (Set Square -> 52) , (Set Square -> 3) , (Set Square -> 96) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 19) , (Set Square -> 74) ,
+L4:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) ,
+
+L1
+(Set Square -> 98) , (Set Square -> 3) , (Set Square -> 78) , (Set Square -> 96) , (Set Square -> 19) , (Set Square -> 74) , (Set Square -> 58) , (Set Square -> 51) , (Set Square -> 57) , (Set Square -> 93) , (Set Square -> 83) , (Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 58) , (Set Square -> 74) , (Set Square -> 19) , (Set Square -> 96) , (Set Square -> 78) , (Set Square -> 3) , (Set Square -> 98) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 78) , (Set Square -> 58) , (Set Square -> 52) , (Set Square -> 3) , (Set Square -> 98) , (Set Square -> 96) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 19) , (Set Square -> 74) ,
+L4:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) ,
+
+L1
+(Set Square -> 41) , (Set Square -> 98) , (Set Square -> 3) , (Set Square -> 78) , (Set Square -> 96) , (Set Square -> 19) , (Set Square -> 74) , (Set Square -> 58) , (Set Square -> 51) , (Set Square -> 57) , (Set Square -> 93) , (Set Square -> 83) , (Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 58) , (Set Square -> 74) , (Set Square -> 19) , (Set Square -> 96) , (Set Square -> 78) , (Set Square -> 3) , (Set Square -> 98) , (Set Square -> 41) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 78) , (Set Square -> 58) , (Set Square -> 41) , (Set Square -> 52) , (Set Square -> 3) , (Set Square -> 98) , (Set Square -> 96) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 19) , (Set Square -> 74) ,
+L4:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) ,
+
+L1
+(Set Square -> 8) , (Set Square -> 3) , (Set Square -> 41) , (Set Square -> 98) , (Set Square -> 3) , (Set Square -> 78) , (Set Square -> 96) , (Set Square -> 19) , (Set Square -> 74) , (Set Square -> 58) , (Set Square -> 51) , (Set Square -> 57) , (Set Square -> 93) , (Set Square -> 83) , (Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 58) , (Set Square -> 74) , (Set Square -> 19) , (Set Square -> 96) , (Set Square -> 78) , (Set Square -> 3) , (Set Square -> 98) , (Set Square -> 41) , (Set Square -> 3) , (Set Square -> 8) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 78) , (Set Square -> 58) , (Set Square -> 41) , (Set Square -> 52) , (Set Square -> 3) , (Set Square -> 98) , (Set Square -> 96) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 8) , (Set Square -> 19) , (Set Square -> 74) ,
+L4:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) ,
+
+L1
+(Set Square -> 39) , (Set Square -> 8) , (Set Square -> 3) , (Set Square -> 41) , (Set Square -> 98) , (Set Square -> 3) , (Set Square -> 78) , (Set Square -> 96) , (Set Square -> 19) , (Set Square -> 74) , (Set Square -> 58) , (Set Square -> 51) , (Set Square -> 57) , (Set Square -> 93) , (Set Square -> 83) , (Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 58) , (Set Square -> 74) , (Set Square -> 19) , (Set Square -> 96) , (Set Square -> 78) , (Set Square -> 3) , (Set Square -> 98) , (Set Square -> 41) , (Set Square -> 3) , (Set Square -> 8) , (Set Square -> 39) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 78) , (Set Square -> 39) , (Set Square -> 58) , (Set Square -> 41) , (Set Square -> 52) , (Set Square -> 3) , (Set Square -> 98) , (Set Square -> 96) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 8) , (Set Square -> 19) , (Set Square -> 74) ,
+L4:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) ,
+
+
+----------------------------------------------------
+L1 Size: 20
+L2 Size: 20
+L3 Size: 18
+L4 Size: 3
+----------------------------------------------------
+
+
+L1
+(Set Square -> 39) , (Set Square -> 8) , (Set Square -> 3) , (Set Square -> 41) , (Set Square -> 98) , (Set Square -> 3) , (Set Square -> 78) , (Set Square -> 96) , (Set Square -> 19) , (Set Square -> 74) , (Set Square -> 58) , (Set Square -> 51) , (Set Square -> 57) , (Set Square -> 93) , (Set Square -> 83) , (Set Square -> 92) , (Set Square -> 93) , (Set Square -> 52) , (Set Square -> 62) , (Set Square -> 10) ,
+L2:
+(Set Square -> 10) , (Set Square -> 62) , (Set Square -> 52) , (Set Square -> 93) , (Set Square -> 92) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 58) , (Set Square -> 74) , (Set Square -> 19) , (Set Square -> 96) , (Set Square -> 78) , (Set Square -> 3) , (Set Square -> 98) , (Set Square -> 41) , (Set Square -> 3) , (Set Square -> 8) , (Set Square -> 39) ,
+L3:
+(Set Square -> 92) , (Set Square -> 62) , (Set Square -> 10) , (Set Square -> 83) , (Set Square -> 93) , (Set Square -> 78) , (Set Square -> 39) , (Set Square -> 58) , (Set Square -> 41) , (Set Square -> 52) , (Set Square -> 3) , (Set Square -> 98) , (Set Square -> 96) , (Set Square -> 57) , (Set Square -> 51) , (Set Square -> 8) , (Set Square -> 19) , (Set Square -> 74) ,
+L4:
+(Set Square -> 62) , (Set Square -> 10) , (Set Square -> 93) ,
+
+Enter any char to clear lists : f
+
+Clearing L1...
+Clearing L2...
+Clearing L3...
+Clearing L4...
+L1
+
+L2:
+
+L3:
+
+L4:
+
+
+
+
+C:\Users\jlin7\Desktop\ESE 344 Project 2\Project2\x64\Debug\Project2.exe (process 13964) exited with code 0.
