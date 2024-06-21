@@ -13,12 +13,12 @@ Next, inserted 20 Square objects into L1, in a loop, as follows:<br>
 •	If(L3.size()==5) { <br>
       L4.pop_front(); L4.pop_back(); }<br>
 •	If(L1.size()==5) { <br>
-o	Copy constructed a new list object L5 with initial value of L1.  <br>
-o	Deleted all odd sized Squares (i.e. side value is one of  1, 3, 5, ...,99) from list L5.  <br>
+•	Copy constructed a new list object L5 with initial value of L1.  <br>
+•	Deleted all odd sized Squares (i.e. side value is one of  1, 3, 5, ...,99) from list L5.  <br>
 
 After deleting each odd-sized square, I used the operator--() to access the previous node if it exists, and then printed the size of the square in that node.<br>
 
-o	Printed L5, and Cleared L5.}<br>
+•	Printed L5, and Cleared L5.}<br>
 •	Printed L1, L2, L3, L4.<br>
 } End While Loop<br>
 Cleared L1, L2, L3, and L4, and printed them all.<br>
